@@ -1,2 +1,2 @@
-# FallingApples_my_first_game.io
-My first game on Github
+# Падение яблок.io
+Моя первая игра на языке Godot engine
